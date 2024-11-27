@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "title": "Job FINDER PLATFORM",
+      "description": "A full-stack solution with Springboot and Html, Css, and JavaScript.",
+      "images": [
+        "https://i.postimg.cc/DzkGBznX/JFD.png",
+        "https://i.postimg.cc/rpkd5YNG/T-SHIRT.png"
+      ],
+      "tags": ["Springboot", "JavaScript", "Html", "Css"]
+    },
+    {
+      "id": 2,
+      "title": "TEE & TANNERY",
+      "description": "T-shirt website using Html, Css, JavaScript.",
+      "images": [
+        "https://i.postimg.cc/rpkd5YNG/T-SHIRT.png",
+        "https://i.postimg.cc/rpkd5YNG/T-SHIRT.png"
+      
+      ],
+      "tags": ["JavaScript", "Html", "CSS"]
+    },
+    {
+      "id": 3,
+      "title": "TEXTILEUS WEBSITE",
+      "description": "A productivity website with full-stack features.",
+      "images": [
+        "https://i.postimg.cc/t4PZZHWC/project4.png",
+        "https://i.postimg.cc/rpkd5YNG/T-SHIRT.png"
+      
+      ],
+      "tags": ["Html", "Css", "Laravel", "JavaScript"]
+    },
+    {
+      "id": 4,
+      "title": "PRISMA",
+      "description": "A website for content-readers having three dashboards: admin, author, and reader.",
+      "images": [
+        "https://i.postimg.cc/hjM7DbxL/project2.jpg",
+        "https://i.postimg.cc/rpkd5YNG/T-SHIRT.png"
+      
+      ],
+      "tags": ["Springboot", "Html", "Css", "Javascript"]
+    },
+    {
+      "id": 5,
+      "title": "MOODFIT MENTAL HEALTH APP",
+      "description": "A mental health app with exciting features used to track one's performance.",
+      "images": [
+        "https://i.postimg.cc/2SBvQWRY/project1.png",
+        "https://i.postimg.cc/rpkd5YNG/T-SHIRT.png"
+      
+      ],
+      "tags": ["Figma", "Wireframing", "Prototyping"]
+    },
+    {
+      "id": 6,
+      "title": "DASHBOARD",
+      "description": "A website displaying dashboard features.",
+      "images": [
+        "https://i.postimg.cc/FzCdcy9j/tex-back.png",
+        "https://i.postimg.cc/rpkd5YNG/T-SHIRT.png"
+      
+      ],
+      "tags": ["Laravel", "Html", "CSS", "Javascript"]
+    },
+    {
+      "id": 7,
+      "title": "GOOGLE CLASSROOM DUPE",
+      "description": "A dupe of Google classroom with features.",
+      "images": [
+        "https://i.postimg.cc/BZMx4scr/GCR.png",
+        "https://i.postimg.cc/rpkd5YNG/T-SHIRT.png"
+      
+      ],
+      "tags": ["Html", "CSS", "JavaScript"]
+    },
+    {
+      "id": 8,
+      "title": "WEB DEV PORTFOLIO",
+      "description": "A portfolio website with many projects listed.",
+      "images": [
+        "https://i.postimg.cc/C1wqp6ZM/MYPORTFOLIO.png",
+        "https://i.postimg.cc/rpkd5YNG/T-SHIRT.png"
+      
+      ],
+      "tags": ["Html", "CSS", "JavaScript"]
+    },
+    {
+      "id": 9,
+      "title": "MY PROJECTS",
+      "description": "Projects made by me.",
+      "images": [
+        "https://i.postimg.cc/q7s3YdvZ/PORTFOLIO2.png",
+        "https://i.postimg.cc/rpkd5YNG/T-SHIRT.png"
+      
+      ],
+      "tags": ["Html", "CSS", "JavaScript"]
+    }
+  ]
+  
